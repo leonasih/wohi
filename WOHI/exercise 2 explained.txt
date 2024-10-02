@@ -1,0 +1,12 @@
+I tought it would be nice to explain for you that wat have I done for the second exercise because there is so many students whose work you need to evaluate.
+Hopefully this helps you a little bit!
+
+1. I added a theme Lux from the link bootswatch.com as the bootstrap for the exercise to give all the elements of you page a consistent look.
+   The website is responsive and adapts the sixe and disposition of the items accordint got the size of the window.
+2. I added following CSS rules to futher customize the content:
+    2.1 I formatted the table for the lanaguage skills
+    2.2 I added padding between the text and photo for the main page of the website
+    2.3 I added padding betwaan the Instagram and the text
+    2.4 I changed the cursor to be the hte "grab"-one for the navigation links
+    2.5 I added that when a headline in nav bar is clicked, it flashes a different color
+    2.6 I also added that one of my hobbies, the tv show and my favourite song is there in th cards at the bottom

@@ -1,0 +1,92 @@
+
+
+/* These styles below are the old rules for the exercise 1 ,they are not useful anymore because of the bootstrap! */
+
+h1 {
+    color:rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 5pt;
+    font-weight: lighter;
+    font-size: 10pt;
+}
+
+h2 {
+    color:dimgray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 10pt;
+    font-weight: lighter;
+    font-size: 20;
+}
+
+h3 {
+    color:dimgray;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25pt;
+    margin: 2pt;
+    font-weight: lighter
+
+}
+
+
+a {
+    color:rgb(210, 161, 250);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+}
+
+a.linkedin {
+    color:rgb(210, 161, 250);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+}
+
+li {
+    color:dimgray;
+    font-weight: lighter;
+    padding-bottom: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-seriff;
+}
+ul {
+    color:dimgray;
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-seriff;
+}
+
+div, option, button, label, p {
+    color:dimgray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 8pt;
+    font-weight: lighter;
+}
+
+div.cap {
+    color:dimgray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 8pt;
+    padding: 10px;
+    font-weight: lighter;
+}
+
+tr {
+    color:dimgray;
+    margin: 3pt;
+    padding:5px;
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-seriff;
+}
+
+th {
+    color:dimgray;
+    margin: 3pt;
+    padding:5px;
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-seriff;
+}
+
+caption {
+    color:dimgray;
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-seriff;
+}
+
